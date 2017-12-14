@@ -28,4 +28,4 @@ Web 应用，支持 桌面浏览器 和 手机浏览器
 
 手机原生 App，打算用 Weex 框架，同样一起支持 iOS 和 Android 两个平台
 
-<img src="http://cc.cocimg.com/api/uploads/20170626/1498468551935538.png" style="zoom:50%" />
+<img src="http://cc.cocimg.com/api/uploads/20170626/1498468551935538.png" style="zoom:30%" />
