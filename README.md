@@ -18,6 +18,7 @@
 3. 聊天室
 4. 用户
 5. 权限
+6. 消息、评论推送
 
 ## 预期实现
 桌面应用，支持 Mac、Linux、Windows 三个平台
@@ -29,3 +30,6 @@ Web 应用，支持 桌面浏览器 和 手机浏览器
 手机原生 App，打算用 Weex 框架，同样一起支持 iOS 和 Android 两个平台
 
 <img src="http://cc.cocimg.com/api/uploads/20170626/1498468551935538.png" style="zoom:30%" />
+
+## 实现步骤
+如何配置
